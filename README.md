@@ -2,7 +2,7 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-![worldwise Desktop Demo](<./public/Screenshot%20(168).png> "Desktop Demo")
+![worldwise Desktop Demo](<./public/Screenshot (map).png> "Desktop Demo")
 
 Currently, two official plugins are available:
 
